@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RelationshipMapping:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c85d15b-c065-41ce-a972-49fd733a674f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyS62M6DKuRRh4DEmPGj2xIdCa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../poi-3.17/poi-4.0.1.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Mapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ana.Mapper" />
+      <module name="RelationshipMapping" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\irsat\Documents\MappingExample out.xlsx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ana.Mapper" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\irsat\Documents\MappingExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c85d15b-c065-41ce-a972-49fd733a674f" name="Default Changelist" comment="" />
+      <created>1583913161669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583913161669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1584098975790">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1584098975790" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584098087695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584098087695" />
+    <state x="463" y="73" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583916634221">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="73" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.738@0.0.1366.738" timestamp="1583916634221" />
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584098191143">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1584098191143" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584099429885">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584099429885" />
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1584098985000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584098985000" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1584098985000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584098985000" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1584098984999">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584098984999" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1584098985000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584098985000" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1584098196522">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584098196522" />
+    <state x="65" y="0" key="new project wizard" timestamp="1584099441486">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1584099441486" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1583916581459">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1583916581459" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1583913341497">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583913341497" />
+  </component>
+</project>
